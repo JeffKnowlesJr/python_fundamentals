@@ -1,0 +1,5 @@
+notes
+
+asynchronicity and callbacks
+
+callback is used to run a function and then do something else to it
